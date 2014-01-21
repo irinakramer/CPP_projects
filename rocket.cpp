@@ -4,7 +4,7 @@
 // 10/24/2013
 // CS10 - #1368 (S Sarkar)
 //******************************************************
-// This program draws a rocket shape on the screen based
+// This program draws a rocket shape using stars (*) based
 // on user input of three values: width, height and stages.
 // Depending on user input of odd or even values,
 // the shape of the rocket box can be solid or outlined,
